@@ -102,6 +102,7 @@ h2{
     justify-content: center;
     flex-direction: column;
     gap: 1px;
+    flex-wrap: wrap;
 }
 
 .fname {

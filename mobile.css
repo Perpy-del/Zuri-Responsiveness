@@ -110,7 +110,7 @@ h2{
     /* box-sizing: border-box; */
     border-radius: 5pt;
     background-color: white;
-    
+    flex-wrap: wrap;
 }
 
 form {
